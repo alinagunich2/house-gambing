@@ -176,7 +176,7 @@ background-size:contain;
         
     }
     .header__menu{
-        margin-top: 9px;
+        
          display: none; /*--------------------------------------- */
         position: fixed;
         height: 100vh;
@@ -185,7 +185,7 @@ background-size:contain;
         width: 100%;
         
         left: 50%; 
-        transform: translate(-50%, 10%);
+        transform: translate(-50%, 7%);
         
 
 
@@ -231,7 +231,7 @@ background-size:contain;
     
     .header__menu{
          display: none; /*--------------------------------------- */
-         margin-top: -30px;
+         transform: translate(-50%, 3%);
     }
     
     .menu__link {
@@ -258,9 +258,9 @@ background-size:contain;
         width: 100%;
         height: 100vh;
         left: 50%;
-        transform: translate(-50%, 60%);
+        transform: translate(-50%, 31%);
         padding: 0 15px;
-        margin-top: -361px;
+        
     }
     .button__item:first-child{
         display: none;
