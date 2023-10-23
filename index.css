@@ -152,7 +152,7 @@ background-size:contain;
 }
 @media (max-width: 1209px) {
     .header__menu {
-        margin-right: 0px;
+        margin-right: 26px;
     }
     .header__container {
         padding: 14px 48px;
@@ -176,7 +176,7 @@ background-size:contain;
         
     }
     .header__menu{
-        
+        margin-right: 0px;
          display: none; /*--------------------------------------- */
         position: fixed;
         height: 100vh;
